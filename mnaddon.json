@@ -1,0 +1,8 @@
+{
+  "addonid": "marginnote.extension.list2cards",
+  "author": "hsayed",
+  "title": "List to Cards",
+  "version": "1.0.0",
+  "marginnote_version_min": "3.6.18",
+  "cert_key": ""
+}
